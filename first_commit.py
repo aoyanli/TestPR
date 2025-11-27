@@ -1,3 +1,3 @@
-a=1+'fix1'
-b=2+'fix2'
-c=3+'fix3'
+a=1+'master_fix1'
+b=2+'master_fix2'
+c=3+'master_fix3'
